@@ -8,5 +8,6 @@
 
 
 4-Démarrage de h2database pour générer la base de données + effectuation du test:
+![demarrage projet](https://github.com/ZOUHAIDI-Mohamed-Ettayeb/TP2_JEE/assets/138864105/5c37833d-223c-4908-bebc-45769e43c362)
 
 5-Basculer de h2database vers mySql:
